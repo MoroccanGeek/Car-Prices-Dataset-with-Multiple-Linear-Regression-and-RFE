@@ -27,3 +27,4 @@ DataMining_FinalProject-RFE: Using RFE to select the most effcient variables.
 
 DataMining_FinalProject-RFE-No-Outliers: Case where there's no outliers in our dataset.
 
+**Check it on Kaggle:** https://www.kaggle.com/dronax/car-prices-dataset
